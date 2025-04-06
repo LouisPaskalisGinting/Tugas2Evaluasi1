@@ -4,8 +4,10 @@
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/LouisPaskalisGinting/Tugas2Evaluasi1.git
+   
    cd Tugas2Evaluasi1
-   # Terminal 1
+   
+# Terminal 1
 cd order-service
 node index.js
 
