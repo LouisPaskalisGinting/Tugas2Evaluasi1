@@ -9,17 +9,21 @@
    
 # Terminal 1
 cd order-service
+
 node index.js
 
 # Terminal 2
 cd payment-service
+
 node index.js
 
 # Terminal 3
 cd shipping-service
+
 node index.js
 
 # Terminal 4 (Orchestrator)
 cd orchestrator
+
 node index.js
 
